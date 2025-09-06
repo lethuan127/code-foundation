@@ -1,6 +1,6 @@
 # Beautiful Code
 
-> "Code is the language we use to give computers instructions, turning ideas into actions. Beautiful code is code that solves problems cleanly, communicates ideas clearly, and feels effortless to use and extend."
+> Code is the language we use to give computers instructions, turning ideas into actions. Beautiful code is code that solves problems cleanly, communicates ideas clearly, and feels effortless to use and extend.
 
 ## Core Principles
 
@@ -535,6 +535,6 @@ Ask yourself:
 
 ## Remember
 
-> "Beautiful code is not about perfection—it's about clarity, maintainability, and the joy of working with it. It's code that makes you smile when you read it, not cringe when you have to modify it."
+> Beautiful code is not about perfection—it's about clarity, maintainability, and the joy of working with it. It's code that makes you smile when you read it, not cringe when you have to modify it.
 
 The most beautiful code is often the simplest code that solves the problem elegantly and communicates its intent clearly to future developers (including yourself).
